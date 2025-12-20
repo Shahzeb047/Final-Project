@@ -1,0 +1,114 @@
+
+You said:
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CV of Shahzeb Ali</title>
+</head>
+
+<body>
+
+<center>
+
+<!-- Main Heading -->
+<h1><b><u>Shahzeb Ali</u></b></h1>
+
+<!-- Profile Image -->
+<img src="D:\CV\profile.jpeg.jpeg" alt="Profile image of Shahzeb Ali" width="150" height="150">
+
+<br><br>
+
+<!-- Profile Summary --> 
+<p>
+    <i>
+        I am Shahzeb Ali, a motivated student with a strong interest in Software Engineering.
+        I am eager to learn new technologies and improve my skills.
+    </i>
+</p>
+
+<hr width="60%">
+
+<!-- Academic Qualification and Skills Table -->
+<h2><b>Academic & Skills Summary</b></h2>
+
+<table border="1" cellpadding="10" cellspacing="0">
+    <tr>
+        <th>Category</th>
+        <th>Details</th>
+    </tr>
+
+    <tr>
+        <td><u>Academic Qualification</u></td>
+        <td>
+            Intermediate (Pre Engineering)<br>
+            Matriculation (Science)
+        </td>
+    </tr>
+
+    <tr>
+        <td><u>Skills Summary</u></td>
+        <td>
+            HTML, C++, Basic Programming<br>
+            Problem Solving, Teamwork
+        </td>
+    </tr>
+</table>
+
+<hr width="60%">
+
+<!-- Skills Section -->
+<h2><b><u>Technical & Soft Skills</u></b></h2>
+
+<ul>
+    <th>HTML Basics</li>
+    <th>C++ Programming</li>
+    <th>Communication Skills</li>
+    <th>Time Management</li>
+</ul>
+
+<hr width="60%">
+
+<!-- Academic Achievements -->
+<h2><b><u>Academic Achievements</u></b></h2>
+
+<ol>
+    <th>Passed Matriculation with good grades</li>
+    <th>Completed basic programming projects</li>
+    <th>Participated in school Science activities</li>
+</ol>
+
+<hr width="60%">
+
+<!-- Hobbies Section -->
+<h2><b><u>Hobbies & Interests</u></b></h2>
+
+<ul>
+    <th>Learning new technologies</li>
+    <th>Reading tech articles</li>
+    <th>Problem solving</li>
+    <th>Internet research</li>
+</ul>
+
+<hr width="60%">
+
+<!-- Online Profile -->
+<h2><b>Online Profile</b></h2>
+
+<p>
+    <b>LinkedIn:</b><br>
+    <a href="https://www.linkedin.com/in/shahzeb-ali-arain" target="_blank">
+        www.linkedin.com/in/shahzeb-ali-arain
+    </a>
+</p>
+
+<br>
+
+<!-- Footer -->
+<p>
+    <i>© 2025 Shahzeb Ali</i>
+</p>
+
+</center>
+
+</body>
+</html>.
